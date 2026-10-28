@@ -12,7 +12,7 @@ SOURCES += \
 
 HEADERS += \
     mainwindow.h \
-    widgets.h
+    widgets.h \
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
